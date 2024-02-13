@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saloneesthss
-- 👀 I’m interested in apps and websites development.
+- 👋 Hi, I’m Salonee Shrestha.
+- 👀 I’m interested in games, apps and websites development.
 - 🌱 I’m currently learning javascript and python.
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me: saloneeshrestha35@gmail.com
