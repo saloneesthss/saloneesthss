@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me: saloneeshrestha35@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: No fun fact!
+- ⚡ Fun fact: I love astronomy😭
 
 <!---
 saloneesthss/saloneesthss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
