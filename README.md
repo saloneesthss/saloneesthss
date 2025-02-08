@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salonee Shrestha.
-- 👀 I’m interested in apps and website development.
+- 👀 I’m interested in apps and websites development.
 - 🌱 I’m currently learning react and nodejs.
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me: saloneeshrestha35@gmail.com
